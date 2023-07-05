@@ -1,0 +1,11 @@
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\bin\Debug\FileWorker.dll
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\bin\Debug\FileWorker.pdb
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\obj\Debug\FileWorker.csprojAssemblyReference.cache
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\obj\Debug\FileWorker.csproj.CoreCompileInputs.cache
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\obj\Debug\FileWorker.dll
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\obj\Debug\FileWorker.pdb
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\bin\Debug\EPPlus.dll
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\bin\Debug\EPPlus.xml
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\obj\Debug\FileWorker.csproj.CopyComplete
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\bin\Debug\Newtonsoft.Json.dll
+D:\workspace_NT\PROGRAM\lib\FileWorker\FileWorker\bin\Debug\Newtonsoft.Json.xml
